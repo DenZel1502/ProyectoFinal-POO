@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/mysql/mysql-connector-java-8.0.24.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/JasperReport/commons-beanutils-1.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/JasperReport/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/JasperReport/commons-digester-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/JasperReport/commons-javaflow-20060411.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/JasperReport/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/JasperReport/groovy-all-1.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/JasperReport/iText-2.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/JasperReport/jasperreports-6.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/JasperReport/jasperreports-fonts-6.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/JasperReport/jasperreports-javaflow-6.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/JasperReport/jcommon-1.0.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/JasperReport/jfreechart-1.0.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/JasperReport/spring.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
